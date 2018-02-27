@@ -1,0 +1,22 @@
+{
+  "name": "phaser2",
+  "version": "1.0.0",
+  "description": "the coolest game ever made",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "phaser-ce": "^2.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cool",
+    "phaser",
+    "connor",
+    "reallycool"
+  ],
+  "author": "connorpmullins",
+  "license": "ISC"
+}
